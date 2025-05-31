@@ -3,9 +3,8 @@
 
 
 # Faceit 
-[![FACEIT](https://img.shields.io/badge/FACEIT-Click%20to%20View-orange?style=flat-square&logo=faceit)](https://www.faceit.com/en/players/YOUR_USERNAME)
+[![FACEIT](https://img.shields.io/badge/FACEIT-Click%20to%20View-orange?style=flat-square&logo=faceit)](https://www.faceit.com/en/players/A2N19)
 
-![FACEIT Elo](https://img.shields.io/badge/FACEIT-ELO%3A%202000-orange?style=for-the-badge&logo=faceit&logoColor=white)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nan_xleb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-nurseit/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a2n19a2n@gmail.com) 

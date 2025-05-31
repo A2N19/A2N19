@@ -3,7 +3,7 @@
 
 
 # Faceit 
-![Instagram](https://widget.mxgic1337.xyz/widget/?player_id=ce0f5d43-63df-4f86-bccf-73c4be36c95f&lang=en&progress=true&avg=true&suffix=true&diff=false&scheme=dark&style=normal&opacity=1&ranking=2&banner=true&refresh=60&name=true&auto_width=true&only_official=true&stats=KILLS,KD,HSPERCENT,WINRATIO&save_session=false&avg_matches=30)]()
+![FACEIT Elo](https://img.shields.io/badge/FACEIT-ELO%3A%202000-orange?style=for-the-badge&logo=faceit&logoColor=white)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nan_xleb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-nurseit/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a2n19a2n@gmail.com) 

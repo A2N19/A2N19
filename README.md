@@ -3,6 +3,8 @@
 
 
 # Faceit 
+[![FACEIT](https://img.shields.io/badge/FACEIT-Click%20to%20View-orange?style=flat-square&logo=faceit)](https://www.faceit.com/en/players/YOUR_USERNAME)
+
 ![FACEIT Elo](https://img.shields.io/badge/FACEIT-ELO%3A%202000-orange?style=for-the-badge&logo=faceit&logoColor=white)
 
 ## 🌐 Socials:
